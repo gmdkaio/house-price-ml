@@ -50,11 +50,7 @@ The `bi/prepare_data.py` script automates the complete export process:
 
 The Power BI report visualizes prediction quality and model behavior across multiple dimensions.
 
-**View the Interactive Dashboard:**
-
-<iframe title="California Housing Price Predictions" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDIxZmFmNjMtN2MxYy00NjVlLWIwODAtZmUwNDQ2MDFkNDkxIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-Or view directly at: [Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDIxZmFmNjMtN2MxYy00NjVlLWIwODAtZmUwNDQ2MDFkNDkxIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+**📊 View the Interactive Dashboard:** [Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDIxZmFmNjMtN2MxYy00NjVlLWIwODAtZmUwNDQ2MDFkNDkxIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
 
 ### Dashboard Pages
 
